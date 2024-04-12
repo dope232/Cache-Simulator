@@ -8,7 +8,7 @@
    ```
 
 2. **How to run the code** 
-Execute the ftdb.py file to start the application.
+Compile and execute the  file to start the application.
 
     ```bash
     rustc main.rs
